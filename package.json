@@ -9,7 +9,8 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "release": "standard-version"
   },
   "private": true,
   "dependencies": {
@@ -42,6 +43,7 @@
     "karma-jasmine": "~5.0.0",
     "karma-jasmine-html-reporter": "~2.0.0",
     "protractor": "~7.0.0",
+    "standard-version": "^9.5.0",
     "ts-node": "~10.8.0",
     "typescript": "~4.7.2"
   }
