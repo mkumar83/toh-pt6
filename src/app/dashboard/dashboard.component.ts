@@ -10,6 +10,13 @@ import { HeroService } from '../hero.service';
 export class DashboardComponent implements OnInit {
   heroes: Hero[] = [];
 
+  villains: Hero[] = [
+    { id: 102, name: 'Darth Vader' },
+    { id: 103, name: 'The Joker' },
+    { id: 104, name: 'Anton Chigurh' },
+    { id: 105, name: 'Hannibal Lecter' }
+  ];
+
   constructor(private heroService: HeroService) { }
 
   ngOnInit(): void {
