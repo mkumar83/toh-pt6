@@ -3,11 +3,12 @@
   "types": [
     {"type": "feat", "section": "New Features"},
     {"type": "fix", "section": "Old Bug Fixes"},
-    {"type": "chore", "hidden": false},
-    {"type": "docs", "hidden": false},
-    {"type": "style", "hidden": false},
-    {"type": "refactor", "hidden": false},
-    {"type": "perf", "hidden": false},
-    {"type": "test", "hidden": false}
+    {"type": "chore", "hidden": false , "section": "Miscellaneous Changes"},
+    {"type": "docs", "hidden": false, "section": "Documentation"},
+    {"type": "style", "hidden": false, "section": "New Features"},
+    {"type": "refactor", "hidden": false, "section": "App Improvements"},
+    {"type": "perf", "hidden": false, "section": "Performance Improvements"},
+    {"type": "test", "hidden": false, "section": "Unit Test"},
+    {"type": "ci", "hidden": false, "section": "CI/CD Pipelines"}
   ]
 }
