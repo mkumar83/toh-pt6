@@ -1,4 +1,6 @@
 Change Log for Tour of Heroes
+## [0.1.0](https://github.com/mkumar83/toh-pt6/compare/v0.0.7...v0.1.0) (2022-07-13)
+
 ### [0.0.7](https://github.com/mkumar83/toh-pt6/compare/v0.0.6...v0.0.7) (2022-07-13)
 
 
