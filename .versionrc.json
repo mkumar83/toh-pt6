@@ -3,11 +3,11 @@
   "types": [
     {"type": "feat", "section": "New Features"},
     {"type": "fix", "section": "Old Bug Fixes"},
-    {"type": "chore", "hidden": true},
-    {"type": "docs", "hidden": true},
-    {"type": "style", "hidden": true},
-    {"type": "refactor", "hidden": true},
-    {"type": "perf", "hidden": true},
-    {"type": "test", "hidden": true}
+    {"type": "chore", "hidden": false},
+    {"type": "docs", "hidden": false},
+    {"type": "style", "hidden": false},
+    {"type": "refactor", "hidden": false},
+    {"type": "perf", "hidden": false},
+    {"type": "test", "hidden": false}
   ]
 }
