@@ -1,6 +1,6 @@
 {
   "name": "angular.io-example",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Example project from an angular.io guide with Tour of Heroes as example",
   "license": "MIT",
   "scripts": {

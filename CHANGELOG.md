@@ -1,4 +1,11 @@
 Change Log for Tour of Heroes
+## [1.0.0](https://github.com/mkumar83/toh-pt6/compare/v0.1.0...v1.0.0) (2022-07-13)
+
+
+### Documentation
+
+* Testing the Docs Update Change Log ([fc64d22](https://github.com/mkumar83/toh-pt6/commit/fc64d221a93a56d6cb81b4468f5940a2d76a8981))
+
 ## [0.1.0](https://github.com/mkumar83/toh-pt6/compare/v0.0.7...v0.1.0) (2022-07-13)
 
 ### [0.0.7](https://github.com/mkumar83/toh-pt6/compare/v0.0.6...v0.0.7) (2022-07-13)
