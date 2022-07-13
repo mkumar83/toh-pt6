@@ -1,4 +1,16 @@
 Change Log for Tour of Heroes
+### [0.0.6](https://github.com/mkumar83/toh-pt6/compare/v0.0.5...v0.0.6) (2022-07-13)
+
+
+### Documentation
+
+* Added details on the use of Standard Version ([2481c20](https://github.com/mkumar83/toh-pt6/commit/2481c2016b5b1dd61c55e4d47ff0b99d7049f5c5))
+
+
+### New Features
+
+* changed the color of Header, wish to see this listed as Feature change ([9047032](https://github.com/mkumar83/toh-pt6/commit/9047032d7e8f704921c15263a55e1c3426e501e8))
+
 ### [0.0.5](https://github.com/mkumar83/toh-pt6/compare/v0.0.4...v0.0.5) (2022-07-13)
 
 
