@@ -1,4 +1,21 @@
 Change Log for Tour of Heroes
+## [1.1.0](https://github.com/mkumar83/toh-pt6/compare/v1.0.0...v1.1.0) (2022-07-13)
+
+
+### Documentation
+
+* added a note on fix for issue 53 ([21e9564](https://github.com/mkumar83/toh-pt6/commit/21e95649a2e5136cff2db4c1a3b221c6cb2ce992))
+
+
+### Old Bug Fixes
+
+* added much needed contact to Dashboard ([d9eb117](https://github.com/mkumar83/toh-pt6/commit/d9eb11797d1f1ca434af47dd5decf8869b72985f))
+
+
+### New Features
+
+* Added the Label for the Search ([28c1237](https://github.com/mkumar83/toh-pt6/commit/28c123745299b2762ff7b30cb9d5ac0ccf050e61))
+
 ## [1.0.0](https://github.com/mkumar83/toh-pt6/compare/v0.1.0...v1.0.0) (2022-07-13)
 
 
