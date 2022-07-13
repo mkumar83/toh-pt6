@@ -1,4 +1,11 @@
 Change Log for Tour of Heroes
+### [0.0.7](https://github.com/mkumar83/toh-pt6/compare/v0.0.6...v0.0.7) (2022-07-13)
+
+
+### Old Bug Fixes
+
+* Added addition check on heros size before pushing ([1328c20](https://github.com/mkumar83/toh-pt6/commit/1328c201c143f7ebc0f7527844653fb76594e489))
+
 ### [0.0.6](https://github.com/mkumar83/toh-pt6/compare/v0.0.5...v0.0.6) (2022-07-13)
 
 
