@@ -1,4 +1,17 @@
 Change Log for Tour of Heroes
+## [1.2.0](https://github.com/mkumar83/toh-pt6/compare/v1.1.0...v1.2.0) (2022-07-14)
+
+
+### Documentation
+
+* Updates docs to represent latest feature status ([420524c](https://github.com/mkumar83/toh-pt6/commit/420524c890da9e4310cc7285c09a51e42df47b3c))
+
+
+### New Features
+
+* added detailed page note ([336576f](https://github.com/mkumar83/toh-pt6/commit/336576f417cae4f7a9ea682aff938080c17a3e4a))
+* Updated the foot note for effective use of Search ([5d1041d](https://github.com/mkumar83/toh-pt6/commit/5d1041d7cfacca5e3da538411bdad38562b5a7fb))
+
 ## [1.1.0](https://github.com/mkumar83/toh-pt6/compare/v1.0.0...v1.1.0) (2022-07-13)
 
 
